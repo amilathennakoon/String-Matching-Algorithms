@@ -1,0 +1,11 @@
+c:\users\amila\documents\visual studio 2017\Projects\Matching Algo\Matching Algo\obj\Debug\netcoreapp2.0\Matching Algo.csproj.CoreCompileInputs.cache
+c:\users\amila\documents\visual studio 2017\Projects\Matching Algo\Matching Algo\obj\Debug\netcoreapp2.0\Matching Algo.AssemblyInfoInputs.cache
+c:\users\amila\documents\visual studio 2017\Projects\Matching Algo\Matching Algo\obj\Debug\netcoreapp2.0\Matching Algo.AssemblyInfo.cs
+c:\users\amila\documents\visual studio 2017\Projects\Matching Algo\Matching Algo\bin\Debug\netcoreapp2.0\MatchingAlgo.deps.json
+c:\users\amila\documents\visual studio 2017\Projects\Matching Algo\Matching Algo\bin\Debug\netcoreapp2.0\MatchingAlgo.runtimeconfig.json
+c:\users\amila\documents\visual studio 2017\Projects\Matching Algo\Matching Algo\bin\Debug\netcoreapp2.0\MatchingAlgo.runtimeconfig.dev.json
+c:\users\amila\documents\visual studio 2017\Projects\Matching Algo\Matching Algo\bin\Debug\netcoreapp2.0\MatchingAlgo.dll
+c:\users\amila\documents\visual studio 2017\Projects\Matching Algo\Matching Algo\bin\Debug\netcoreapp2.0\MatchingAlgo.pdb
+c:\users\amila\documents\visual studio 2017\Projects\Matching Algo\Matching Algo\obj\Debug\netcoreapp2.0\MatchingAlgo.dll
+c:\users\amila\documents\visual studio 2017\Projects\Matching Algo\Matching Algo\obj\Debug\netcoreapp2.0\MatchingAlgo.pdb
+c:\users\amila\documents\visual studio 2017\Projects\Matching Algo\Matching Algo\obj\Debug\netcoreapp2.0\Matching Algo.csprojResolveAssemblyReference.cache
