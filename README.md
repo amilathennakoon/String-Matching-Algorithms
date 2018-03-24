@@ -1,1 +1,1 @@
-# C#.Net Matching Algorithms 
+# C#.Net String Matching Algorithms 
